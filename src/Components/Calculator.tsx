@@ -159,7 +159,6 @@ export function Calculator() {
                     <button type="button" className="btn btn-secondary" onClick={Szamitas}>=</button>
                 </div>
         </div>
-        <h2>Végösszeg: {vegosszeg}</h2>
         </>
     )
 }
