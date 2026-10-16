@@ -64,7 +64,6 @@ export function Calculator() {
         try {
             switch (operator) {
                 case "+":
-                    console.log("belep")
                     setVegosszeg(parseFloat(elsoSzam) + parseFloat(masodikSzam));
                     break;
                 case "-":
